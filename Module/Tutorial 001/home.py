@@ -1,0 +1,10 @@
+import mymenu
+
+print("ยินดีต้อนรับสู่ร้านอาหารไทย-ญีปุ่น")
+print("เมนูอาหารไทย")
+
+mymenu.thaiMenu()
+print("เมนูอาหารไทย")
+
+print("เมนูอาหารญี่ปุ่น")
+mymenu.japaneseMenu()
